@@ -1,0 +1,150 @@
+Name: Bryant Park Address: E 42nd St Current Check-ins: 71
+Name: New York Penn Station Address: 1 Penn Plz Current Check-ins: 59
+Name: Grand Central Terminal Address: 87 E 42nd St Current Check-ins: 48
+Name: Madison Square Park Address: Madison Ave Current Check-ins: 45
+Name: Times Square Address: Broadway & 7th Ave Current Check-ins: 28
+Name: Museum of Modern Art (MoMA) Address: 11 W 53rd St Current Check-ins: 26
+Name: Macy's Address: 151 W 34th St Current Check-ins: 24
+Name: New York Marriott Marquis Address: 1535 Broadway Current Check-ins: 24
+Name: Shake Shack Address: 11 Madison Ave Current Check-ins: 24
+Name: Central Park Address: 59th St to 110th St Current Check-ins: 21
+Name: Eataly Address: 200 5th Ave Current Check-ins: 16
+Name: Union Square Park Address: btwn Broadway & Union Sq E Current Check-ins: 14
+Name: Apple Store Address: 767 Fifth Avenue Current Check-ins: 14
+Name: Rockefeller Center Address: Rockefeller Plaza Current Check-ins: 12
+Name: Empire State Building Address: 350 5th Ave Current Check-ins: 12
+Name: New York Public Library Address: 455 5th Ave Current Check-ins: 11
+Name: Port Authority Bus Terminal Address: 625 8th Ave Current Check-ins: 9
+Name: Shake Shack Address: 691 8th Ave Current Check-ins: 9
+Name: AMC Empire 25 Address: 234 W 42nd St Current Check-ins: 8
+Name: Columbus Circle Address: 4-6 Columbus Cir Current Check-ins: 7
+Name: Manhattan, NY Address: Anywhere! Current Check-ins: 6
+Name: AMC Loews 34th Street 14 Address: 312 W 34th St Current Check-ins: 4
+Name: Radio City Music Hall Address: 1260 Avenue of the Americas Current Check-ins: 4
+Name: W New York - Times Square Address: 1567 Broadway Current Check-ins: 4
+Name: Herald Square Address: W 34th St & Broadway Current Check-ins: 3
+Name: Hard Rock Cafe New York Address: 1501 Broadway Current Check-ins: 3
+Name: Toys"R"Us Address: 1514 Broadway Current Check-ins: 2
+Name: MTA Subway - 42nd St/Times Square/Port Authority (A/C/E/N/Q/R/S/1/2/3/7) Address: W 42nd St. Current Check-ins: 1
+Name: Regal E-Walk Stadium 13 & RPX Address: 247 W 42nd St Current Check-ins: 0
+Name: AMC Loews Kips Bay 15 Address: 570 2nd Ave Current Check-ins: 0
+Name: New York Penn Station Address: 1 Penn Plz Current Check-ins: 58
+Name: Bryant Park Address: E 42nd St Current Check-ins: 75
+Name: Grand Central Terminal Address: 87 E 42nd St Current Check-ins: 50
+Name: Madison Square Park Address: Madison Ave Current Check-ins: Name: 47Times Square
+ Address: Broadway & 7th Ave Current Check-ins: 27
+Name: Museum of Modern Art (MoMA) Address: 11 W 53rd St Current Check-ins: 26
+Name: Macy's Address: 151 W 34th St Current Check-ins: 24
+Name: New York Marriott Marquis Address: 1535 Broadway Current Check-ins: 24
+Name: Shake Shack Address: 11 Madison Ave Current Check-ins: 23
+Name: Central Park Address: 59th St to 110th St Current Check-ins: 21
+Name: Eataly Address: 200 5th Ave Current Check-ins: 18
+Name: Union Square Park Address: btwn Broadway & Union Sq E Current Check-ins: 14
+Name: Apple Store Address: 767 Fifth Avenue Current Check-ins: 14
+Name: Rockefeller Center Address: Rockefeller Plaza Current Check-ins: 12
+Name: Empire State Building Address: 350 5th Ave Current Check-ins: 12
+Name: Port Authority Bus Terminal Address: 625 8th Ave Current Check-ins: 11
+Name: New York Public Library Address: 455 5th Ave Current Check-ins: 10
+Name: Shake Shack Address: 691 8th Ave Current Check-ins: 9
+Name: AMC Empire 25 Address: 234 W 42nd St Current Check-ins: 8
+Name: Columbus Circle Address: 4-6 Columbus Cir Current Check-ins: 8
+Name: Manhattan, NY Address: Anywhere! Current Check-ins: 7
+Name: AMC Loews 34th Street 14 Address: 312 W 34th St Current Check-ins: 4
+Name: Radio City Music Hall Address: 1260 Avenue of the Americas Current Check-ins: 4
+Name: W New York - Times Square Address: 1567 Broadway Current Check-ins: 4
+Name: Herald Square Address: W 34th St & Broadway Current Check-ins: 3
+Name: Hard Rock Cafe New York Address: 1501 Broadway Current Check-ins: 3
+Name: Toys"R"Us Address: 1514 Broadway Current Check-ins: 2
+Name: MTA Subway - 42nd St/Times Square/Port Authority (A/C/E/N/Q/R/S/1/2/3/7) Address: W 42nd St. Current Check-ins: 1
+Name: Regal E-Walk Stadium 13 & RPX Address: 247 W 42nd St Current Check-ins: 0
+Name: AMC Loews Kips Bay 15 Address: 570 2nd Ave Current Check-ins: 0
+Name: Grand Central Terminal Address: 87 E 42nd St Current Check-ins: 52
+Name: Bryant Park Address: E 42nd St Current Check-ins: 74
+Name: Madison Square Park Address: Madison Ave Current Check-ins: 51
+Name: Times Square Address: Broadway & 7th Ave Current Check-ins: 28
+Name: New York Penn Station Address: 1 Penn Plz Current Check-ins: 57
+Name: Museum of Modern Art (MoMA) Address: 11 W 53rd St Current Check-ins: 26Name: 
+Macy's Address: 151 W 34th St Current Check-ins: 25
+Name: Name: Name: Name: Name: Name: EatalyNew York Marriott MarquisShake ShackCentral ParkUnion Square Park Address: Apple Store Address:  Address:  Address:  Address: 200 5th Ave1535 Broadway Address: btwn Broadway & Union Sq E59th St to 110th St767 Fifth Avenue11 Madison Ave Current Check-ins:  Current Check-ins:  Current Check-ins:  Current Check-ins: 18 Current Check-ins:  Current Check-ins: 15222423
+15
+
+
+
+
+Name: Rockefeller Center Address: Rockefeller PlazaName:  Current Check-ins: Empire State Building12 Address: 
+350 5th Ave Current Check-ins: Name: 12Name: Name: Port Authority Bus Terminal
+New York Public LibraryShake Shack Address:  Address: 455 5th Ave Address: Name: 625 8th Ave691 8th AveAMC Empire 25 Current Check-ins:  Current Check-ins: 10 Current Check-ins:  Address: 119
+234 W 42nd St
+
+ Current Check-ins: 8
+Name: Columbus Circle Address: 4-6 Columbus CirName:  Current Check-ins: Manhattan, NY8 Address: 
+Anywhere! Current Check-ins: 6
+Name: Name: Name: W New York - Times SquareAMC Loews 34th Street 14 Address: Radio City Music Hall1567 Broadway Address:  Current Check-ins: 4312 W 34th StName:  Address: 
+ Current Check-ins: Herald Square1260 Avenue of the Americas Current Check-ins: 44 Address: 
+
+W 34th St & Broadway Current Check-ins: 3
+Name: Toys"R"Us Address: 1514 Broadway Current Check-ins: 2
+Name: MTA Subway - 42nd St/Times Square/Port Authority (A/C/E/N/Q/R/S/1/2/3/7) Address: Name: W 42nd St.Hard Rock Cafe New YorkName:  Current Check-ins: Regal E-Walk Stadium 13 & RPX Address: 1 Address: 1501 Broadway247 W 42nd St Current Check-ins:  Current Check-ins: 
+2
+0
+Name: AMC Loews Kips Bay 15 Address: 570 2nd Ave Current Check-ins: 0
+Name: Madison Square Park Address: Name: Madison Ave Current Check-ins: Bryant Park56 Address: 
+E 42nd St Current Check-ins: 77
+Name: Grand Central Terminal Address: 87 E 42nd St Current Check-ins: 51
+Name: Times Square Address: Broadway & 7th Ave Current Check-ins: 29
+Name: New York Penn Station Address: 1 Penn Plz Current Check-ins: 62
+Name: New York Marriott Marquis Address: 1535 Broadway Current Check-ins: 27
+Name: Museum of Modern Art (MoMA) Address: 11 W 53rd St Current Check-ins: 26
+Name: Shake Shack Address: 11 Madison Ave Current Check-ins: 24
+Name: Macy's Address: 151 W 34th St Current Check-ins: 24
+Name: EatalyName: Central Park Address:  Address: 200 5th Ave59th St to 110th St Current Check-ins: 20 Current Check-ins: 
+23
+Name: Apple Store Address: 767 Fifth Avenue Current Check-ins: 15
+Name: Union Square Park Address: btwn Broadway & Union Sq E Current Check-ins: 14
+Name: Empire State BuildingName:  Address: 350 5th AveRockefeller Center Current Check-ins:  Address: 12Rockefeller Plaza Current Check-ins: 
+Name: 12
+Port Authority Bus TerminalName:  Address: Name: Columbus Circle625 8th AveNew York Public Library Address: 4-6 Columbus Cir Address: 455 5th Ave Current Check-ins:  Current Check-ins: 9 Current Check-ins: 12
+11
+
+Name: Shake Shack Address: 691 8th Ave Current Check-ins: 9
+Name: AMC Empire 25 Address: 234 W 42nd St Current Check-ins: 7
+Name: Manhattan, NY Address: Anywhere! Current Check-ins: 6
+Name: AMC Loews 34th Street 14 Address: 312 W 34th St Current Check-ins: Name: 4Radio City Music Hall
+ Address: 1260 Avenue of the Americas Current Check-ins: 4
+Name: W New York - Times Square Address: 1567 Broadway Current Check-ins: 4
+Name: Toys"R"Us Address: 1514 Broadway Current Check-ins: 3
+Name: Hard Rock Cafe New York Address: 1501 Broadway Current Check-ins: 2
+Name: Herald Square Address: W 34th St & Broadway Current Check-ins: 1
+Name: MTA Subway - 42nd St/Times Square/Port Authority (A/C/E/N/Q/R/S/1/2/3/7) Address: W 42nd St. Current Check-ins: 1
+Name: Regal E-Walk Stadium 13 & RPX Address: 247 W 42nd St Current Check-ins: 0
+Name: AMC Loews Kips Bay 15 Address: 570 2nd Ave Current Check-ins: 0
+Name: New York Penn Station Address: 1 Penn Plz Current Check-ins: 62Name: 
+Bryant Park Address: E 42nd St Current Check-ins: 77Name: 
+Madison Square Park Address: Madison Ave Current Check-ins: 56
+Name: Grand Central Terminal Address: 87 E 42nd St Current Check-ins: 49
+Name: Times Square Address: Broadway & 7th AveName:  Current Check-ins: New York Marriott Marquis29 Address: 
+1535 Broadway Current Check-ins: 28
+Name: Museum of Modern Art (MoMA) Address: 11 W 53rd St Current Check-ins: Name: 27Shake Shack
+ Address: 11 Madison Ave Current Check-ins: 25
+Name: Macy's Address: 151 W 34th St Current Check-ins: 24
+Name: Central Park Address: 59th St to 110th St Current Check-ins: 24
+Name: Eataly Address: 200 5th Ave Current Check-ins: 21
+Name: Union Square Park Address: btwn Broadway & Union Sq E Current Check-ins: 16
+Name: Apple Store Address: 767 Fifth Avenue Current Check-ins: 15
+Name: Port Authority Bus Terminal Address: 625 8th Ave Current Check-ins: 12
+Name: Rockefeller Center Address: Rockefeller Plaza Current Check-ins: 12
+Name: Empire State Building Address: 350 5th Ave Current Check-ins: 12
+Name: New York Public Library Address: 455 5th Ave Current Check-ins: 11
+Name: Columbus Circle Address: 4-6 Columbus Cir Current Check-ins: 9
+Name: Shake Shack Address: 691 8th Ave Current Check-ins: 9Name: 
+AMC Empire 25Name:  Address: Manhattan, NY234 W 42nd St Address:  Current Check-ins: Anywhere!7 Current Check-ins: 6
+
+Name: W New York - Times Square Address: Name: 1567 BroadwayRadio City Music Hall Current Check-ins:  Address: 5
+1260 Avenue of the Americas Current Check-ins: 4
+Name: AMC Loews 34th Street 14 Address: 312 W 34th St Current Check-ins: 4
+Name: Herald Square Address: W 34th St & Broadway Current Check-ins: 3
+Name: Toys"R"Us Address: 1514 Broadway Current Check-ins: 3
+Name: Hard Rock Cafe New York Address: 1501 Broadway Current Check-ins: 2
+Name: MTA Subway - 42nd St/Times Square/Port Authority (A/C/E/N/Q/R/S/1/2/3/7) Address: W 42nd St. Current Check-ins: 1
+Name: Regal E-Walk Stadium 13 & RPX Address: 247 W 42nd St Current Check-ins: 0
+Name: AMC Loews Kips Bay 15 Address: 570 2nd Ave Current Check-ins: 0
